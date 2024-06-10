@@ -59,6 +59,7 @@ ECommerceApp создано для того, чтобы сделать проц�
 ## Контакты
 
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами:
-- Email: your-email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: aidarmukanbet@gmail.com
+- Telegram: [telegram](https://t.me/moongifty)
+
 
